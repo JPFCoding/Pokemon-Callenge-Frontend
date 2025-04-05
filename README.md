@@ -27,13 +27,13 @@ Para aprender mais sobre Next.js, consulte os seguintes recursos:
 
   - [Aprenda Nextjs](https://nextjs.org/learn) - tutorial interativo de Next.js
 
-Você pode conferir [the Next.js GitHub repository](https://github.com/vercel/next.js) - seu feedback e contribuições são bem-vindos!
+Você pode conferir [Repositório Nextjs da Vercel](https://github.com/vercel/next.js) - seu feedback e contribuições são bem-vindos!
 
 ## Deploy na Vercel
 
-A maneira mais fácil de deployar sua aplicação Next.js é usando a Plataforma [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) dos criadores do Next.js.
+A maneira mais fácil de deployar sua aplicação Next.js é usando a [Plataforma Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) dos criadores do Next.js.
 
-Confira [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) para mais detalhes.
+Confira [Documentação de deploy](https://nextjs.org/docs/app/building-your-application/deploying) para mais detalhes.
 
 ## Como rodar?
 
@@ -60,7 +60,7 @@ Confira [Next.js deployment documentation](https://nextjs.org/docs/app/building-
 
 ## considerações finais:
 
-1. O trabalho foi um grande desafio, usei algumas poucas coisas que sabia de Nextjs e React19 que já venho estudando por conta própria.
+1. O trabalho foi um grande desafio, usei algumas poucas coisas que sabia de Nextjs e React que já venho estudando por conta própria.
 
 2.Na vida de desenvolvedor estamos sempre aprendendo e nos esforçando para saber o máximo possível das coisas, aprendendo tudo sobre oque usamos, mas as vezes nos deparamos com situações assim, onde a atitude deve ser sempre perguntar para quem sabe, ler a documentação, procurar em fóruns e vídeos tutoriais, buscar elaborar(pensar) a solução. Nosso trabalho é resolver problemas, adoramos isso.
 
