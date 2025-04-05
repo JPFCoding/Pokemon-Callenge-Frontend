@@ -51,6 +51,9 @@ Confira [Documentação de deploy](https://nextjs.org/docs/app/building-your-app
   - [Documentação Nextjs](https://nextjs.org/docs)
   - [Documentação React](react.dev)
   - [Build a Stunning Landing Page with Next.js 15, Shadcn/ui, Tailwind CSS, and Launch UI](https://youtu.be/tn0DHBCi6kg?si=OXyJ8rotbmtU-qik)
+  - [Como instalar o Laravel 12 no Windows 11 para iniciantes em 2025](https://youtu.be/-uERuBkURfM?si=PPJtJtMaxPa1PR0h)
+  - [Documentação Shadcn/ui](https://ui.shadcn.com/docs)
+  - [Tailwindcss mais de 600 componentes prontos](https://www.creative-tim.com/twcomponents)
 
 ## Problemas:
 
