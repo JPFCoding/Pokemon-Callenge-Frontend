@@ -2,9 +2,7 @@ Este é um projeto [Next.js](https://nextjs.org) inicializado com o [`create-nex
 
 ## Começando
 
-Primeiro, clone o repositório, abra o CMD ou Terminal Linux e dê o comando `npm install`.
-
-Segundo, execute o servidor de desenvolvimento:
+Primeiro, execute o servidor de desenvolvimento:
 
 ```bash
 npm run dev
@@ -41,7 +39,9 @@ Confira [Documentação de deploy](https://nextjs.org/docs/app/building-your-app
 
 1.Deve haver instalado no mínimo a versão 18.17 ou superior, cheque [Repositório da versão 18.17.0](https://github.com/nodejs/node/releases/tag/v18.17.0) - seu feedback e contribuições são bem-vindos!
 
-2.Na pasta do projeto, dê o comando `npm run dev`, no CMD ou Terminal Linux e vá para o [endereço de servidor](http://localhost:3000)
+2.Clone o projeto, vá na pasta do clone, abra o CMD ou Terminal Linux e digite o comando `npm install`. Isso instalará as pastas node_modules e next-env.d.ts
+
+3.Em seguida, depois de configurado o npm, dê o comando `npm run dev`, no CMD ou Terminal Linux e vá para o [endereço de servidor](http://localhost:3000)
 
 3.O Nextjs15 app router trabalha com rotas, na pasta app haverão outras com o nome de suas páginas, digite `/nome-da-pasta` no fim do link de servidor em seu nagevador, para acessar as páginas.
 
