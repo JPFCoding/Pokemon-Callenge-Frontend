@@ -13,7 +13,7 @@ export default function CadastrarJogador() {
                 </div>
 
                 <form className="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12">
-                    {/* Coluna Esquerda */}
+
                     <div className="space-y-8 w-full">
                         <div className="space-y-4">
                             <Label htmlFor="nome" className="text-black font-medium">
