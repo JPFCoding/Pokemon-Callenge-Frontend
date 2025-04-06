@@ -43,13 +43,13 @@ Confira [Documentação de deploy](https://nextjs.org/docs/app/building-your-app
 
 3.Em seguida, depois de configurado o npm, dê o comando `npm run dev`, no CMD ou Terminal Linux e vá para o [endereço de servidor](http://localhost:3000)
 
-3.O Nextjs15 app router trabalha com rotas, na pasta app haverão outras com o nome de suas páginas, digite `/nome-da-pasta` no fim do link de servidor em seu nagevador, para acessar as páginas.
+4.O Nextjs15 app router trabalha com rotas, na pasta app haverão outras com o nome de suas páginas, digite `/nome-da-pasta` no fim do link de servidor em seu nagevador, para acessar as páginas.
 
 ## Documentações e fontes de pesquisas que usei:
 
   - [Documentação Tailwindcss](https://v3.tailwindcss.com/docs/optimizing-for-production#controlling-class-order)
   - [Documentação Nextjs](https://nextjs.org/docs)
-  - [Documentação React](react.dev)
+  - [Documentação React](https://react.dev/)
   - [Build a Stunning Landing Page with Next.js 15, Shadcn/ui, Tailwind CSS, and Launch UI](https://youtu.be/tn0DHBCi6kg?si=OXyJ8rotbmtU-qik)
   - [Como instalar o Laravel 12 no Windows 11 para iniciantes em 2025](https://youtu.be/-uERuBkURfM?si=PPJtJtMaxPa1PR0h)
   - [Documentação Shadcn/ui](https://ui.shadcn.com/docs)
